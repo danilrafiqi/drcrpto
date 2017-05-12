@@ -1,7 +1,7 @@
 #Script By Muhamad Danil Rafiqi
 import base64
 print "===================================="
-print "            DRCyptopy v.1           "
+print "            DRCryptopy v.1           "
 print "            Copyright by            " 
 print " Muhamad Danil Rafiqi a.k.a DRCyber "
 print "   http://rafibanget.blogspot.com   "
